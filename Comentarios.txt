@@ -16,3 +16,11 @@ git diff
     Las salidas de los diffs muestran los cambios que
     existen entre un archivo dentro del repositorio y 
     cuando no se ha a añadido al repositorio este archivo
+
+Al revisar el status de las cosas, para quedarnos con la
+version anterior se podría borrar las lineas agregadas y 
+eliminar el archivo agregado
+
+En caso contrario, que no se quisiese la version anterior
+se volerían a añadir las lineas y el programa eliminado del
+repositorio
