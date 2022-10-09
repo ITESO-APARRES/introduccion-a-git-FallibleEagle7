@@ -11,3 +11,8 @@ del commit y el nombre del commit
 
 git status -s muestra de manera compacta los archuvos
 creados y los modificados
+
+git diff
+    Las salidas de los diffs muestran los cambios que
+    existen entre un archivo dentro del repositorio y 
+    cuando no se ha a añadido al repositorio este archivo
