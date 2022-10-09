@@ -1,0 +1,13 @@
+Aqui empieza lo bueno, llegando a la Fase 2
+git log regresó todo el identificador del
+commit, así como el autor, la fecha con día, mes,
+hora, minuto, segundo, año y uso horario, además
+del nombre del commit
+git log --pretty=reference regresa los primeros 7
+caracteres del identificadpr del commit, el nombre
+del comit y la fecha (YYYY-MM-DD)
+git log --pretty=oneline regresa todo el identificador
+del commit y el nombre del commit
+
+git status -s muestra de manera compacta los archuvos
+creados y los modificados
